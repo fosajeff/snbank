@@ -13,7 +13,7 @@ It has the following features:
 - Creating an account
 
     - We accept user creation account details
-    through the **stdin**, generate a unique account number and store customer details in the existing customers text file.
+    through the **stdin**, generate a unique account number and store customer details in the existing customers text file.<br>
       
 
     > **STDIN** - Standard Input Stream
@@ -22,7 +22,7 @@ It has the following features:
 
 - Check account details
 
-    - Our system is able to retrieve the account details for a particular customer by accepting the account number and searching through the stored customer details for a match. If a match is found, the customer's details is display in **stdout**.
+    - Our system is able to retrieve the account details for a particular customer by accepting the account number and searching through the stored customer details for a match. If a match is found, the customer's details is display in **stdout**.<br>
 
 
     > **STDOUT** - Standard Output Stream
