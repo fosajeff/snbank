@@ -1,0 +1,31 @@
+Account Number: 4040105895
+Account Name: Efosa Jeffrey
+Opening Balance: 1,000,000
+Account Type: Savings
+Account Email: efossjeffrey@gmail.com
+
+
+Account Number: 4006184798
+Account Name: Jeffrey Efosa
+Opening Balance: 120,000,000,000
+Account Type: Savings
+Account Email: jeffreyefosa@gmail.com
+
+Account Number: 4045005164
+Account Name: Wisdom Michaels
+Opening Balance: 250,000,000
+Account Type: Current
+Account Email: wissmike@gmail.com
+
+Account Number: 4087233363
+Account Name: Jamie John
+Opening Balance: 120000000
+Account Type: Current
+Account Email: jamie@gmai.com
+
+Account Number: 4097752367
+Account Name: 345
+Opening Balance: 2345
+Account Type: awrget4321
+Account Email: jamie@gmail.com
+
